@@ -131,6 +131,7 @@ It's unique in that it is a *FREE* learning platform purely built to help newbie
 15. #### Implement "PvP" social feature.
 16. #### Implement "Feed" social feature.
 17. #### Implement "Security Calendar" social feature.
+18. #### Implement TG/Discord feature
 
 <br/>
 
